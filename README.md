@@ -1,39 +1,5 @@
-🍋 Lemon Juice App
 
-A simple and interactive Android app built using Jetpack Compose.
-This app demonstrates basic state management, image handling, and click interactions in Compose.
-
-📱 App Overview
-
-The Lemon Juice App simulates the process of making lemonade in four simple steps:
-
-🍋 Select a Lemon – Tap the lemon tree to pick a lemon.
-
-🤏 Squeeze the Lemon – Keep tapping to squeeze the lemon.
-
-🥤 Drink the Lemonade – Tap to drink the juice.
-
-🔄 Restart – Tap to start again.
-
-🚀 Features
-
-Built with Jetpack Compose
-
-Uses State Management
-
-Image switching based on user interaction
-
-Random squeeze count using kotlin.random.Random
-
-Clean Material 3 UI design
-
-🛠️ Tech Stack
-
-Language: Kotlin
-
-UI Toolkit: Jetpack Compose
-
-Architecture: Single Activity (ComponentActivity)
+<img width="1039" height="772" alt="image" src="https://github.com/user-attachments/assets/477422e9-e683-4eaf-81b1-e38c57d030c7" />
 
 IDE: Android Studio
 <img width="958" height="810" alt="image" src="https://github.com/user-attachments/assets/239c7703-846b-404d-949c-1ad86c79dded" />
